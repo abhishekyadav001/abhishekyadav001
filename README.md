@@ -60,7 +60,7 @@
   </a>
   <a href="https://chakra-ui.com/getting-started" target="_blank" rel="noreferrer">
     <img
-      src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg](https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg)"
+      src="https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg"
       alt="html5"
       width="40"
       height="40"
