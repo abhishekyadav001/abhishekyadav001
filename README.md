@@ -22,6 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/abhishekyadav68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishekyadav" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abhishek-yadav-17b9ba23a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishekyadav" height="30" width="40" /></a>
+  <a href="https://abhishekyadav001.github.io/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/103635175/192428903-a9a77a8c-371b-478b-9730-ccf3312cf517.png" alt="https://www.linkedin.com/in/abhishekyadav" height="30" width="40" /></a>
 </p>
 
 
