@@ -99,7 +99,7 @@
 
 ## My Github Stats:
 
-<img alt="Abhishek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhishekyadav001&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /><a href="https://github.com/abhishekyadav001/github-readme-stats"><img alt="Abhishek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekyadav001&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<img alt="Abhishek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhishekyadav001&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /><img alt="Abhishek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekyadav001&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   <br/>  
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
