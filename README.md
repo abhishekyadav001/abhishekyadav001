@@ -2,10 +2,9 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=abhishekyadav001&style=for-the-badge"/>
 <h1 align="center">Hi 👋, I'm Abhishek Yadav</h1>
 
-!['image of banner'](https://github.com/abhishekyadav001/abhishekyadav001/blob/main/My%20banner.png)
+!['image of banner'](https://github.com/abhishekyadav001/abhishekyadav001/blob/main/My%20banner.png) <br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=80&pause=1000&random=false&width=1200&height=200&lines=Full+Stack+Web+Developer;MERN+Stack+Web+Developer)](https://git.io/typing-svg)
-                
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=59&pause=1000&random=false&width=1200&height=100&lines=Full+Stack+Web+Developer;MERN+Stack+Web+Developer)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 
