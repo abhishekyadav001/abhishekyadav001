@@ -97,10 +97,12 @@
  
 </p>
 
-## My Github Stats:
-
-<img alt="Abhishek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhishekyadav001&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /><img alt="Abhishek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekyadav001&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-  <br/>  
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/abhishekyadav001/abhishekyadav001/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
