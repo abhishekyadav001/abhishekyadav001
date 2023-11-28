@@ -104,5 +104,4 @@
   
   <br/><br/><br/>
 </div>
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 
