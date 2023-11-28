@@ -1,5 +1,5 @@
 
-<img src="https://komarev.com/ghpvc/?username=abhishekyadav001&style=for-the-badge"/>
+<img align="left" src="https://komarev.com/ghpvc/?username=abhishekyadav001&style=for-the-badge"/>
 <h1 align="center">Hi 👋, I'm Abhishek Yadav</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
                 
