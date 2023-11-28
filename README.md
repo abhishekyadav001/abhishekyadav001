@@ -4,7 +4,7 @@
 
 !['image of banner'](https://github.com/abhishekyadav001/abhishekyadav001/blob/main/My%20banner.png)
 <h3 align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Garamond&weight=500&size=45&pause=1000&color=45CFCF&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Web+Developer)](https://git.io/typing-svg)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Garamond&weight=500&size=45&pause=1000&color=45CFCF&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Web+Developer)](https://git.io/typing-svg)
 </h3>
                 
 
