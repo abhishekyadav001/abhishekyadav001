@@ -30,7 +30,7 @@
 <h2 align="center">⚒️ Tech-Stack ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,tailwind,git" /> <br>
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb" /><br>
 </div>
 
