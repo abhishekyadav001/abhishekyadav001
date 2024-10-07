@@ -13,6 +13,8 @@
 
 - 👨‍💻 All of my projects are available at [https://abhishekyadav001.github.io/](https://abhishekyadav001.github.io/)
 
+- 💡 Solved More than 100 problems on leetcode [leetcodeProfile](https://leetcode.com/u/abhishekyadav001/).
+  
 - 👀 Looking for contribution in M.E.R.N Project
 
 - 💬 Ask me about **MERN stack**
