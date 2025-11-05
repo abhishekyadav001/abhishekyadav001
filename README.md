@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/f-nICqWLnrQAAAAC/tenor.gif"/>
 
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 I’m currently working on  **Next Js**
 
 - 👨‍💻 All of my projects are available at [https://abhishekyadav001.github.io/](https://abhishekyadav001.github.io/)
 
