@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abhishekyadav001.github.io/](https://abhishekyadav001.github.io/)
 
-- 💡 Solved More than 100 problems on leetcode [leetcodeProfile](https://leetcode.com/u/abhishekyadav001/).
+- 💡 Solved More than 200 problems on leetcode [leetcodeProfile](https://leetcode.com/u/abhishekyadav001/).
   
 - 👀 Looking for contribution in M.E.R.N Project
 
@@ -65,7 +65,7 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=abhishekyadav001&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="yadavabhisg" data-description="Support me on Buy me a coffee!" data-message="" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 <br/><br/>
 
 <hr/>
