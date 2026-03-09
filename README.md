@@ -64,8 +64,18 @@
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=abhishekyadav001&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=abhishekyadav001&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="yadavabhisg" data-description="Support me on Buy me a coffee!" data-message="" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+</div><script 
+  data-name="BMC-Widget" 
+  data-cfasync="false" 
+  src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
+  data-id="yadavabhisg"
+  data-description="Support me on Buy me a coffee!"
+  data-message=""
+  data-color="#5F7FFF"
+  data-position="Right"
+  data-x_margin="18"
+  data-y_margin="18">
+</script>
 <br/><br/>
 
 <hr/>
